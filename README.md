@@ -1,5 +1,9 @@
 ## Formulário de Contato Completo
 
+<img width="477" height="816" alt="validacao-recaptcha" src="https://github.com/user-attachments/assets/98f29187-fa1b-4e0a-a364-44de5843b833" />
+<img width="483" height="827" alt="recaptcha" src="https://github.com/user-attachments/assets/9d2832ca-939b-498e-96a0-10a381c784a5" />
+
+
 Um formulário de contato moderno, responsivo e seguro, desenvolvido com **React**, incluindo **validação completa**, **reCAPTCHA**, **tema claro/escuro**, além de **gerenciamento de estado com Redux Toolkit**.
 
 ---
